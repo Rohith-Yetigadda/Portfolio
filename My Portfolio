@@ -18,7 +18,6 @@
     a { text-decoration: none; 
         color: inherit; }
 
-    /* --- Navbar --- */
     header {
       background: #2f4a3f; 
       color: #fff;
@@ -34,7 +33,6 @@
     }
     nav a:hover { color: #dfe3df; } 
 
-    /* --- Hero --- */
     .hero {
       text-align: center;
       padding: 3rem 2rem;
@@ -52,7 +50,6 @@
     }
     .btn:hover { background: #2f4a3f; }
 
-    /* --- About --- */
     .about {
       padding: 2.5rem 2rem;
       text-align: center;
@@ -64,7 +61,6 @@
     }
     .about h3 { margin-bottom: 0.5rem; color: #2f4a3f; }
 
-    /* --- Projects --- */
     .projects {
       padding: 2.5rem 2rem;
       background: #fff;
@@ -86,7 +82,6 @@
     .project h4 { margin-bottom: 0.4rem; color: #1e2b23; }
     .project p { font-size: 0.9rem; }
 
-    /* --- Contact --- */
     .contact {
       padding: 2.5rem 2rem;
       text-align: center;
@@ -100,7 +95,6 @@
     }
     .contact a:hover { color: #2f4a3f; }
 
-    /* --- Footer --- */
     footer {
       background: #2f4a3f;
       color: #fff;
